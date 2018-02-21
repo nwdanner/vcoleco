@@ -1,2 +1,2 @@
-# vcoleco
-Source code Neal Danner's Virtual Colecovision Native Windows Application
+# Virtual Colecovision - Neal Danner's Colecovision Emulator for Windows (circa 1997)
+
